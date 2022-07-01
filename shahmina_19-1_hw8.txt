@@ -1,0 +1,16 @@
+SQL запросы - CREATE, INSERT, SELECT, UPDATE, DROP
+
+Запрос CREATE:
+Create database and create table - команды для создания новой базы данных/таблицы.
+
+Запрос INSERT:
+INSERT - команда, которая отвечает за добавление данных в таблицу.
+
+Запрос SELECT:
+SELECT - команда для получения данных из выбранной таблицы.
+
+Запрос UPDATE:
+UPDATE - команда для обновления данных таблицы.
+
+Запрос DROP:
+DROP Database and DROP table - команда для удаления целой базы данных/таблицы.
